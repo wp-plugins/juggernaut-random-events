@@ -2,7 +2,7 @@
 	/*
 	Plugin Name: JuggernautPlugins - Random Event
 	Plugin URI: http://juggernautplugins.com
-	Description: Ari? That's random...
+	Description: Create random events anywhere on your website to get your visitors excited while increasing your page views, time on site, and customer loyalty. You can give away anything you want to reward visitors with a free report, product, software license or coupon code with Juggernaut Random Events. You also get to choose the how often your random events are triggered and what pages they will show up on.
 	Version: 1.3
 	Author: JuggernautPlugins
 	Author URI: http://www.juggernautplugins.com/
