@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: JuggernautPlugins, Kaser
+Contributors: JuggernautPlugins, kaser
 Donate link: http://JuggernautPlugins.com/
 Tags: promotion, marketing, give aways, giveaway, prize, prizes, give, free, freebies, win, chances, visitors
 Requires at least: 3.0.1
